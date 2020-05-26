@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73678" started-at="2020-05-26T16:38:58Z" finished-at="2020-05-26T16:40:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73678" started-at="2020-05-26T16:38:58Z" finished-at="2020-05-26T16:40:12Z">
+      <class name="com.training.sanity.tests.RTTC_063_AdminProductAdd">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RTTC_063_AdminProductAdd@52e677af]" name="setUpBeforeClass" is-config="true" duration-ms="21" started-at="2020-05-26T22:08:58Z" finished-at="2020-05-26T22:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RTTC_063_AdminProductAdd@52e677af]" name="setUp" is-config="true" duration-ms="15351" started-at="2020-05-26T22:08:58Z" finished-at="2020-05-26T22:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginAdmin()[pri:0, instance:com.training.sanity.tests.RTTC_063_AdminProductAdd@52e677af]" name="loginAdmin" duration-ms="11371" started-at="2020-05-26T22:09:13Z" finished-at="2020-05-26T22:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAdmin -->
+        <test-method status="PASS" signature="accessProductAddPage()[pri:0, instance:com.training.sanity.tests.RTTC_063_AdminProductAdd@52e677af]" name="accessProductAddPage" duration-ms="24445" started-at="2020-05-26T22:09:25Z" finished-at="2020-05-26T22:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessProductAddPage -->
+        <test-method status="PASS" signature="userLogin()[pri:0, instance:com.training.sanity.tests.RTTC_063_AdminProductAdd@52e677af]" name="userLogin" duration-ms="22489" started-at="2020-05-26T22:09:49Z" finished-at="2020-05-26T22:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+      </class> <!-- com.training.sanity.tests.RTTC_063_AdminProductAdd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
